@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# the project is not yet hosted online. I will host it as soon as I get time
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
