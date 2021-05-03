@@ -1,4 +1,4 @@
-# the project is not yet hosted online. I will host it as soon as I get time
+# the project is deployed by firebase at https://e-commerce-77058.web.app/
 
 This project was bootstrapped with [Create React App]
 
