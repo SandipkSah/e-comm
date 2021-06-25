@@ -1,4 +1,4 @@
-# the project is deployed by firebase at https://e-commerce-77058.web.app/
+# the project is deployed using netlify at https://e-commsite.netlify.app/
 
 This project was bootstrapped with [Create React App]
 
