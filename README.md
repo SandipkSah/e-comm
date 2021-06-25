@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# the project is deployed by firebase at https://e-commerce-77058.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]
 
 ## Available Scripts
 
